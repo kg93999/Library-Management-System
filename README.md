@@ -6,5 +6,5 @@ To get the project running do:
 
 - Clone this repo
     ```shell
-    $ git clone https://github.com/101Loop/drf-user.git
+    $ git clone https://github.com/kg93999/Library-Management-System.git
     ```
